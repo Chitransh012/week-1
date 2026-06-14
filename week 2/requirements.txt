@@ -1,0 +1,8 @@
+os
+sys
+json
+requests
+textual
+trafilatura
+openai
+load_dotenv()
